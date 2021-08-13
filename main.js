@@ -24,6 +24,6 @@ function circle(mouse_x,mouse_y){
     ctx.stroke();
 }
 function clear_area(){
-ctx.clearRect(0,0,canvas.width,canvas.height);
+ctx.clearRect(0,0,canvas.width,canvas.height); 
 
 }
